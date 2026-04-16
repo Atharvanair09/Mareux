@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mareux/static/css/main.e6c13ad2.css",
+    "main.js": "/mareux/static/js/main.af58ee11.js",
+    "static/js/453.0f5e1f73.chunk.js": "/mareux/static/js/453.0f5e1f73.chunk.js",
+    "index.html": "/mareux/index.html",
+    "main.e6c13ad2.css.map": "/mareux/static/css/main.e6c13ad2.css.map",
+    "main.af58ee11.js.map": "/mareux/static/js/main.af58ee11.js.map",
+    "453.0f5e1f73.chunk.js.map": "/mareux/static/js/453.0f5e1f73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.af58ee11.js"
+  ]
+}
